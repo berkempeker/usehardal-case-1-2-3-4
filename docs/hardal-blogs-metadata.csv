@@ -1,0 +1,62 @@
+title,category,author,date
+Safari ITP: Impact and Solutions for Marketers and Technical Teams,Blog,Ecem Bircan,2026-03-03
+What is SKAdNetwork (SKAN) and How Does It Work?,Blog,Ecem Bircan,2026-02-16
+Building an Elegant Terraform Cloud VM Manager with Elysia.js and React,Developer Guide,Mert Enercan,2026-02-04
+How Accurate First-Party Data Improves E-commerce Conversion Rates,Data Strategy,Ecem Bircan,2026-02-02
+Using Hardal Analytics Overview,Hardal Setup,Emircan Uye,2025-12-29
+Understanding Events and Sessions in Hardal Analytics,Hardal Setup,Emircan Uye,2025-12-29
+How to Use Hardal Destinations,Hardal Setup,Emircan Uye,2025-12-23
+Understanding Hardal Project Settings,Hardal Setup,Emircan Uye,2025-12-23
+How to Set Up TikTok Events API Gateway with Hardal,Hardal Setup,Emircan Uye,2025-12-22
+Managing Your Hardal Signal Settings,Hardal Setup,Emircan Uye,2025-12-22
+How to Set Up Hardal Custom Events (Hardcoded),Hardal Setup,Emircan Uye,2025-12-18
+How to Set Up Meta Conversion API Gateway with Hardal,Hardal Setup,Emircan Uye,2025-12-18
+How to Set Up First-Party Domain for Meta CAPI,Hardal Setup,Emircan Uye,2025-12-17
+How to Set Up Hardal Cookieless Analytics,Hardal Setup,Emircan Uye,2025-12-17
+How to Set Up First-Party Domain for TikTok Events API,Hardal Setup,Emircan Uye,2025-12-15
+How to Set Up Hardal via Google Tag Manager,Hardal Setup,Emircan Uye,2025-12-15
+How to Set Up First-Party Domain for Hardal,Hardal Setup,Emircan Uye,2025-12-12
+How to Set Up Hardal Custom Events with Google Tag Manager,Hardal Setup,Emircan Uye,2025-12-12
+How to Set Up Server-Side Google Tag Manager with Hardal,Hardal Setup,Emircan Uye,2025-12-11
+How to Verify and Debug Your Hardal Setup,Hardal Setup,Emircan Uye,2025-12-03
+How to Set Up User Identification with Distinct Function,Hardal Setup,Emircan Uye,2025-12-03
+Hardal Analytics Session & User ID Relationship,Session Calculation,Ecem Bircan,2025-11-24
+Meta Signals Gateway for Mobile Apps,Meta Signals Gateway,Ecem Bircan,2025-11-21
+How to send ecommerce events to Hardal,Blog,Berkay Demirbas,2025-11-13
+Table Merging on Data Hub,Blog,Berkay Demirbas,2025-11-12
+How to Import Hardal First-Party Data to BigQuery,Blog,Berkay Demirbas,2025-11-10
+What is Google Analytics 4 Data Import?,Data Import,Ecem Bircan,2025-11-04
+How Compliance and Performance Can Work Together,Privacy First Marketing,Baris Gurbuzler,2025-10-29
+Chrome's New Console Warning About Third-Party Cookies,Google Chrome vs Third-Party Cookies,Mert Enercan,2025-03-28
+What is Meta Signals Gateway?,Blog,Hardal,2025-02-12
+How to use Hardal Signal Unity SDK,Blog,Mert Enercan,2025-02-12
+Using Meta Signals Gateway with Hardal,Meta Signals Gateway,Hardal,2025-02-05
+Cookieless Analytics Setup for E-commerce,Blog,Hardal,2025-01-20
+How to send analytics data with custom marketing destination,Server-side GTM Deployment,Mert Enercan,2025-01-13
+How to secure your server-side GTM measurement from DDoS attack,Server-side GTM Security,Mert Enercan,2024-12-16
+Google Chrome Begins Phasing Out uBlock Origin Amid Manifest V3 Shift,Blog,Mert Enercan,2024-10-17
+Hardal DB: Event Data Model for Server-side Analytics,Blog,Berkay Demirbas,2024-10-07
+Server-side GTM With Huawei,Server-side GTM Deployment,Mert Enercan,2024-10-03
+Parallel Measurement: Dual-Tagging for Server-Side,Blog,Hardal,2024-09-18
+What is server-side Pub/Sub Messaging?,Blog,Hardal,2024-09-16
+Server-side GTM With Azure App Service,Server-side GTM Deployment,Mert Enercan,2024-09-15
+Server-side GTM With Yandex Cloud,Blog,Mert Enercan,2024-09-15
+Cookieless Pings on Google Analytics 4 with sGTM,Blog,Hardal,2024-08-26
+S2S (Server-to-server) API Endpoint,Blog,Berkay Demirbas,2024-05-28
+Benefits of Server-side: Improved Website Page Speed to More Conversions,Blog,Barış Gürbüzler,2024-02-25
+Anonymous User ID for each sGTM Requests,Blog,Berkay Demirbas,2024-02-18
+First-Party vs Third-Party Cookies,Blog,Berkay Demirbas,2024-01-26
+How to use Privacy Sandbox API on Chrome,Privacy Sandbox,Berkay Demirbas,2024-01-10
+Google Ads Offline Conversion for server-side GTM,Blog,Berkay Demirbas,2023-12-28
+Optimizing Server-Side Tagging Costs with Hardal Auto Revisions,Server-side Tagging Cost Optimization,Berkay Demirbas,2023-12-27
+Server-Side Event Callback Endpoint for Adjust,Blog,Hardal,2023-09-30
+Server-Side Streaming to BigQuery Using Hardal Gateway,Blog,Berkay Demirbas,2023-09-17
+Google Analytics 4 API Alternative,Blog,Berkay Demirbas,2023-05-01
+Add Hardal to your Astro project with Partytown,Blog,Berkay Demirbas,2023-01-22
+Cookieless Analytics in Gatsby,Blog,Berkay Demirbas,2023-01-15
+Track Your Next.js App as Cookieless Using Hardal,Blog,Berkay Demirbas,2022-12-18
+Fundamental Metrics in Web3 Analytics,Blog,Baris Gurbuzler,2022-12-03
+Cookieless tracking in web2 and web3,Blog,Berkay Demirbas,2022-11-27
+Why we are building Hardal?,Blog,Berkay Demirbas,2022-11-12
+Set up Meta Conversions API Gateway,Blog,Berkay Demirbas,2022-11-13
+Converting Web3 Users Into Clients,Blog,Baris Gurbuzler,2022-11-14
