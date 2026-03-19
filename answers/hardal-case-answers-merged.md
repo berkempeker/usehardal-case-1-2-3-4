@@ -560,7 +560,7 @@ Hardal already has comparison pages at usehardal.com/compare/. Expand with:
 
 **B. LinkedIn Founder-Led Content**
 
-- Founders post 3x/week: data privacy insights, customer wins (anonymized if needed), open dashboard metrics
+- Founders post 1-2x/week: data privacy insights, customer wins (anonymized if needed), open dashboard metrics. Perfect for AEO, GEO, and general brand awareness.
 - Repurpose case studies into LinkedIn narrative posts (+193% for Tatilbudur, +80% PageView for Arabam.com)
 
 **C. Review Acceleration**
@@ -1468,13 +1468,6 @@ I built a full-stack web application that generates branded Open Graph images fo
 | Styling | Tailwind CSS 4 | Rapid UI development with utility classes; dark theme to match Hardal's website |
 | Batch Downloads | JSZip (client-side) | Generates ZIP archives in the browser, avoiding serverless function timeout limits |
 | Language | TypeScript | Type safety for the PostMetadata interface and API parameters |
-
-### Why `next/og` Instead of Canvas/Puppeteer?
-
-- **Performance**: Satori renders images in ~50-200ms vs seconds for headless browser approaches
-- **Edge caching**: Generated images are automatically CDN-cached by Vercel (`Cache-Control: public, immutable, max-age=31536000`)
-- **No infrastructure**: No headless Chrome, no external services — just a route handler returning an `ImageResponse`
-- **CSS-like syntax**: Uses JSX with inline styles (flexbox), making the image template readable and maintainable
 
 ### Why Client-Side ZIP Instead of Server-Side Bulk Endpoint?
 
